@@ -1,3 +1,12 @@
+/**
+ * Modified by:
+ * Alex Cao (acao4@toromail.csudh.edu)
+ * add support for currencies other than US Dollars
+ * 
+ * Accounts Savings and Checkings will support currencies other than US dollars.
+ * Account will return the balance in account currency as well as US dollars.
+ * (Didn' actually make any modifications to the class, I only made the comments here)
+ */
 package com.usman.csudh.bank.core;
 import java.io.IOException;
 import java.io.OutputStream;
